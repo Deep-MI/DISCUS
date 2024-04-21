@@ -1,0 +1,13 @@
+training_dataset_path: path to the training dataset, e.g. train.h5
+validation_dataset_path: path to the training dataset, e.g. validation.h5
+data_path: path to normalized data with {} as placeholder for the subjects
+bvecs_path: path to the b-vector file with {} as placeholder for the subjects
+bvals_path: path to the b-values file with {} as placeholder for the subjects
+mask_path: path to the mask file with {} as placeholder for the subjects
+experiment_path: path to save experiment results, e.g. the checkpoint
+training_subject_ids: ["subject_1", "subject_2", "subject_3"]
+validation_subject_ids: ["subject_1", "subject_2", "subject_3"]
+test_subject_ids: ["subject_1", "subject_2", "subject_3"]
+observation_set_names: ["10", "20", "30"]
+observation_set_indices: [["indices_for_subset_of_10"], ["indices_for_subset_of_20"], ["indices_for_subset_of_30"]]
+prediction_path: path to the prediction file including filename with {} as placeholders for the subject_id and for the observation_set_name
