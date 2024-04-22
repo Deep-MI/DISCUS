@@ -20,4 +20,4 @@ python train.py -f config.yaml
 
 If you use DISCUS for your research publication, please cite:
 
-_Christian Ewert, David Kügler, Rüdiger Stirnberg, Alexandra Koch, Anastasia Yendiki, Martin Reuter; Geometric Deep Learning for Diffusion MRI Signal Reconstruction with Continuous Samplings (DISCUS). Imaging Neuroscience 2024; 2 1–18. doi: https://doi.org/10.1162/imag_a_00121_
+_Christian Ewert*, David Kügler*, Rüdiger Stirnberg, Alexandra Koch, Anastasia Yendiki, Martin Reuter (*co-first); Geometric Deep Learning for Diffusion MRI Signal Reconstruction with Continuous Samplings (DISCUS). Imaging Neuroscience 2024; 2 1–18. doi: https://doi.org/10.1162/imag_a_00121_
